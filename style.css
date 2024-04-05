@@ -60,12 +60,3 @@ button.glide__arrow {
       padding: 0px !important;
 }
 
-button.glide__bullet {
-      background-color: white;
-      color: black;
-      cursor: pointer;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      border-radius: none !important;
-}
